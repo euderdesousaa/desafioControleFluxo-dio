@@ -1,7 +1,7 @@
 # desafioControleFluxo-dio
 ## Resolução do desafio Controle de Fluxo
 
-## Abaixo está o enunciado do desafio
+### Abaixo está o enunciado do desafio
 
 # DIO - Trilha Java Básico
 www.dio.me
